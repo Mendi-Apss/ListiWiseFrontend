@@ -1,0 +1,1 @@
+export const List = () => <h1 className="header"> Hello </h1>
